@@ -1,0 +1,15 @@
+Inconsistent files: 
+SL23-000117_1_370.pdf
+SL23-000935_1_371.pdf
+SL24-000234_1_371.pdf
+SL24-000009_1_371.pdf
+SL23-000920_1_371.pdf
+
+ACBCB1- mutation positive: 
+SL23-000998_1_371
+SL24-000061_1_371
+SL24-000082_1_371
+
+Empty tables: 
+SL24-000253_1_371.pdf
+SL24-000254_1_371.pdf
