@@ -56,5 +56,3 @@ This project focuses on automating the generation of patient summaries from clin
 This project is for academic and internal research purposes only.
 
 ---
-
-For questions, contact Diya Saha ([sahad1@uci.edu](mailto:sahad1@uci.edu)).
