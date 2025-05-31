@@ -43,14 +43,6 @@ This project focuses on automating the generation of patient summaries from clin
 * `pandas`, `numpy`, `matplotlib`
 * `spacy`, `transformers`, `openai`, `llama-cpp`, etc.
 
-Install required packages using:
-
-```bash
-pip install -r requirements.txt
-```
-
-(Ensure `requirements.txt` is created with relevant dependencies)
-
 ## How to Use
 
 1. Clone the repository.
