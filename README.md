@@ -1,6 +1,7 @@
 # Canine Cancer Research Project
 
 **Collaborators:** Diya Saha, Jenny Lee, Kyuho Oh, Ian Raymond Domingo 
+
 **Affiliation:** UC Irvine & Anivive Lifesciences
 
 
