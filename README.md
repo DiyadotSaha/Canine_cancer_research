@@ -1,6 +1,6 @@
 # Canine Cancer Research Project
 
-** Project Demo:** [Project Demo](https://www.youtube.com/watch?v=j7ciWPtlhCM)
+**Project Demo:** [Project Demo](https://www.youtube.com/watch?v=j7ciWPtlhCM)
 
 **Collaborators:** Diya Saha, Jenny Lee, Kyuho Oh, Ian Raymond Domingo 
 
